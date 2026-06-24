@@ -13,7 +13,7 @@
 ### 🔥 About Me
 - 💼 **Currently at:** [Skyscanner](https://www.skyscanner.net) – shaping world-class travel experiences  
 - 🔭 **Building with:** [Palace Drum Clinic](https://www.palacedrumclinic.com) & [Evio Studios](https://eviostudios.com) – empowering musicians, students & teachers  
-- 👩‍🏫 **Assistant Instructor:** [Code First Girls](https://codefirstgirls.com) – mentoring the next generation of women in tech  
+- 👩‍🏫 **Lead Instructor:** [Code First Girls](https://codefirstgirls.com) – mentoring the next generation of women in tech  
 - 🌍 **Previously at:** Zonal – led development of new POS & restaurant platforms  
 - 🎵 **Also:** Professional drummer & songwriter (BBC Introducing feature • Jakarta tour • UK/EU pop-punk releases)  
 - 📫 **Reach me at:** [josh@glowingmanagement.com](mailto:josh@glowingmanagement.com)  
